@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/8d53218b6ba44ccbb70107b4f508f527/artifacts
+end_time: 1731706702642
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: 8d53218b6ba44ccbb70107b4f508f527
+run_name: able-conch-913
+run_uuid: 8d53218b6ba44ccbb70107b4f508f527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706701676
+status: 4
+tags: []
+user_id: estre

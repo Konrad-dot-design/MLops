@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/e688630c741e416db7d7b54fd8b6e19b/artifacts
+end_time: 1731704486931
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: e688630c741e416db7d7b54fd8b6e19b
+run_name: enchanting-lynx-887
+run_uuid: e688630c741e416db7d7b54fd8b6e19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731704486161
+status: 4
+tags: []
+user_id: estre
