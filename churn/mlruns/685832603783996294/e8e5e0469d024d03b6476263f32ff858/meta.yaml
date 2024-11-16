@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/e8e5e0469d024d03b6476263f32ff858/artifacts
+end_time: 1731704558059
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: e8e5e0469d024d03b6476263f32ff858
+run_name: melodic-steed-577
+run_uuid: e8e5e0469d024d03b6476263f32ff858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731704557178
+status: 4
+tags: []
+user_id: estre

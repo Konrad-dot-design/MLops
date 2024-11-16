@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/90ad3a5218244104b0e6d907c529686e/artifacts
+end_time: 1731706869957
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: 90ad3a5218244104b0e6d907c529686e
+run_name: omniscient-shad-144
+run_uuid: 90ad3a5218244104b0e6d907c529686e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706860435
+status: 3
+tags: []
+user_id: estre

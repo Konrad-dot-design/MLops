@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/ebea3f20d7f84f7a84e22e165b6f824d/artifacts
+end_time: 1731704830437
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: ebea3f20d7f84f7a84e22e165b6f824d
+run_name: powerful-ape-674
+run_uuid: ebea3f20d7f84f7a84e22e165b6f824d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731704829529
+status: 4
+tags: []
+user_id: estre

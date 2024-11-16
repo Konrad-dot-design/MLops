@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/d26b43f7114844149231904aa4d61c2b/artifacts
+end_time: 1731704351051
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: d26b43f7114844149231904aa4d61c2b
+run_name: likeable-hare-423
+run_uuid: d26b43f7114844149231904aa4d61c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731704351004
+status: 4
+tags: []
+user_id: estre

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/d48f36df040c4268b08c717e88b9c9cb/artifacts
+end_time: 1731703965571
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: d48f36df040c4268b08c717e88b9c9cb
+run_name: redolent-hen-898
+run_uuid: d48f36df040c4268b08c717e88b9c9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731703965493
+status: 4
+tags: []
+user_id: estre

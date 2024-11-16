@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/528f9cf033ed4246870afc37ef08304d/artifacts
+end_time: 1731705914624
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: 528f9cf033ed4246870afc37ef08304d
+run_name: unruly-mule-212
+run_uuid: 528f9cf033ed4246870afc37ef08304d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705904304
+status: 3
+tags: []
+user_id: estre

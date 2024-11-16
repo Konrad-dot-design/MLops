@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731706869893
+current_stage: None
+description: null
+last_updated_timestamp: 1731706869893
+name: insurance_model
+run_id: 90ad3a5218244104b0e6d907c529686e
+run_link: null
+source: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/90ad3a5218244104b0e6d907c529686e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/90ad3a5218244104b0e6d907c529686e/artifacts/model
+user_id: null
+version: 2

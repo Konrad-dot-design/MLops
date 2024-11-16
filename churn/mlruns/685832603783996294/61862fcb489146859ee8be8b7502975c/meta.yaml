@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/61862fcb489146859ee8be8b7502975c/artifacts
+end_time: 1731706435640
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: 61862fcb489146859ee8be8b7502975c
+run_name: kindly-whale-472
+run_uuid: 61862fcb489146859ee8be8b7502975c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731706434531
+status: 4
+tags: []
+user_id: estre

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/c2d9803274ef438eb5ee00c95a7a5733/artifacts
+end_time: 1731704599142
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: c2d9803274ef438eb5ee00c95a7a5733
+run_name: persistent-deer-201
+run_uuid: c2d9803274ef438eb5ee00c95a7a5733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731704598257
+status: 4
+tags: []
+user_id: estre

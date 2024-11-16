@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/estre/MLops/churn/mlruns/685832603783996294/f84762cbe83d42a78b5ca74ace9df908/artifacts
+end_time: 1731705131345
+entry_point_name: ''
+experiment_id: '685832603783996294'
+lifecycle_stage: active
+run_id: f84762cbe83d42a78b5ca74ace9df908
+run_name: crawling-sloth-315
+run_uuid: f84762cbe83d42a78b5ca74ace9df908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731705130445
+status: 4
+tags: []
+user_id: estre
